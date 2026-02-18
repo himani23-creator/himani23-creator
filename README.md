@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**himani23-creator/himani23-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me:
 
 I am an enthusiastic learner and aspiring developer with a passion for solving problems and building projects. My interests lie in:
